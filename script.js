@@ -1,5 +1,5 @@
 // In this final Project I used the p5 WEBGL 3D environment
-// What I learned most is how the environment creates a 3rd, 3D coordinate z alond side x and y
+// What I learned most is how the environment creates a 3rd, 3D coordinate z along side x and y
 // this coordinate creates the 3rd dimension which allows shapes or objects to move along a 3rd path
 // I applied what I learned about functions to create planets by using custom parameters
 // and arrays which can hold planet objects and can use the properties of those created objects
