@@ -1,3 +1,11 @@
+// In this final Project I used the p5 WEBGL 3D environment
+// What I learned most is how the environment creates a 3rd, 3D coordinate z alond side x and y
+// this coordinate creates the 3rd dimension which allows shapes or objects to move along a 3rd path
+// I applied what I learned about functions to create planets by using custom parameters
+// and arrays which can hold planet objects and can use the properties of those created objects
+// I also applied a class which added in not using repetitive code from creating multiple lines of planet code
+// I finally used WEBGL to create a small solar system where you can see the stars and planets through three dimentional viewing
+
 
 // We create a planet class. The contructor will have the radius param and angle param
 // we update the properties by the parameters
